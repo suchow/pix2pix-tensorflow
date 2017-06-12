@@ -7,3 +7,5 @@ terraform.tfstate.backup
 terraform.tfvars
 .idea
 *.DS_Store
+faces_train/*
+faces_test/*
